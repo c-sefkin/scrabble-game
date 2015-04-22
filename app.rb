@@ -1,5 +1,5 @@
 require('sinatra')
-require('sintatra/reloader')
+require('sinatra/reloader')
 require('scrabble_score')
 also_reload('lib/**/*.rb')
 
